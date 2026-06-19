@@ -1,0 +1,220 @@
+{
+  "seo": {
+    "title": "Bruno Brito | Desenvolvedor Full Stack",
+    "description": "Portfólio e trajetória profissional de Bruno Brito, desenvolvedor Full Stack com foco em interfaces modernas, automação, arquitetura de software e liderança em tecnologia.",
+    "author": "Bruno Brito",
+    "canonicalUrl": "https://brunobrito.github.io/"
+  },
+  "profile": {
+    "name": "Bruno Brito",
+    "headline": "Desenvolvedor Full Stack | React | Next.js | IA & Arquitetura de Software",
+    "summary": "Sou desenvolvedor apaixonado por tecnologia, design moderno e soluções digitais inteligentes. Tenho experiência com desenvolvimento frontend, interfaces responsivas, APIs, automação e inteligência artificial. Meu objetivo é evoluir continuamente em arquitetura de software, liderança técnica e gestão estratégica de tecnologia.",
+    "photo": "assets/images/profile.jpg",
+    "photoAlt": "Foto de Bruno Brito",
+    "cvUrl": "downloads/cv/pdf"
+  },
+  "contacts": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/brunobdev04"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/brunob-silva/"
+    },
+    {
+      "label": "E-mail",
+      "url": "mailto:brunobrito.silva00@gmail.com"
+    }
+  ],
+  "careerSteps": [
+    {
+      "title": "Estágio em Tecnologia",
+      "description": "Entrada no mercado de trabalho, com foco em desenvolver novas competencias e habilidades em desenvolvimento web e construção de interfaces modernas e escaláveis, e aplicar meus conhecimentos em projetos reais, colaborando com equipes multidisciplinares e aprendendo as melhores práticas de desenvolvimento.",
+      "softSkills": [
+        "Curiosidade e criatividade",
+        "iniciativa e aprendizado contínuo",
+        "Colaboração em equipes e comunicação ativa",
+        "Organização, e proatividade na resolução de problemas"
+      ],
+      "roadmap": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "React",
+        "Git & GitHub",
+        "MySQL",
+        "Java"
+      ]
+    },
+    {
+      "title": "Desenvolvedor Web Full Stack Jr",
+      "description": "Ao finalizar minha graduação em Analise e desenvolvimento de sistemas, atuar como desenvolvedor Full Stack com foco em interfaces modernas, arquitetura de software e infraestrutura, com aplicação da lógica pesada do servidor com a integração fluida do Front-End. O profissional Full Stack Jr é responsável por desenvolver e manter aplicações web completas, desde a construção de interfaces responsivas e modernas, até a implementação de APIs, integração com bancos de dados e automação de processos. Entregar soluções digitais eficientes, escaláveis e seguras, alinhadas às necessidades do negócio, colaborar com equipes multidisciplinares e evoluir continuamente em habilidades técnicas e soft skills essenciais para a carreira.",
+      "softSkills": [
+        "Raciocínio lógico, e capacidade de tomar decisões analíticas",
+        "Comunicação assertiva, cultura de feedback",
+        "Organização e gestão de tempo",
+        "Resolução de problemas complexos, e pensamento crítico",
+        "Vontade de aprender e crescer"
+      ],
+      "roadmap": [
+        "Figma",
+        "Tailwind CSS",
+        "React",
+        "TypeScript",
+        "Java",
+        "Spring-Boot",
+        "MySQL",
+        "Docker",
+        "Azure"
+      ]
+    },
+    {
+      "title": "Engenheiro de Software",
+      "description": "Atuar como profissional responsável por projetar, desenvolver, implantar e monitorar sistemas de software durante todo o ciclo de vida da aplicação desde o levantamento de requisitos, prototipação e design, até a implementação, testes e entrega. Acima de aprender ferramentas de desenvolvimento, o profissional Engenheiro de Software tem foco está na construção de soluções escaláveis, seguras e de alta qualidade, sustentadas por boas práticas de arquitetura, engenharia de software e infraestrutura.",
+      "softSkills": [
+        "Pensamento analítico e arquitetural",
+        "Visão centrada no cliente e na experiência do usuário",
+        "Capacidade de transformar requisitos em soluções de valor",
+        "Tomada de decisão baseada em dados e impacto no usuário",
+        "Adaptabilidade diante de mudanças de mercado e prioridades",
+        "Comunicação clara com equipes técnicas e stakeholders"
+      ],
+      "roadmap": [
+        "POO, Estruturas de Dados e Algoritmos",
+        "Modelagem de Banco de Dados",
+        "Desenvolvimento de APIs REST",
+        "Testes Automatizados",
+        "DevOps e CI/CD",
+        "Computação em Nuvem",
+        "Segurança de Aplicações",
+        "Sistemas Distribuídos"
+      ]
+    },
+    {
+      "title": "Engenheiro de Software Sênior / Tech Lead",
+      "description": "Liderar tecnicamente a evolução de plataformas complexas, garantindo a excelência arquitetural, escalabilidade e segurança dos sistemas. Atuar como facilitador entre as necessidades de negócio e a execução técnica, mentoreando desenvolvedores menos experientes e disseminando boas práticas de engenharia. Responsável por tomar decisões críticas de tecnologia, otimizar fluxos de entrega contínua (CI/CD) e projetar sistemas distribuídos de alta disponibilidade, mantendo sempre o foco na experiência do usuário e na eficiência operacional.",
+      "softSkills": [
+        "Liderança técnica, mentoria e desenvolvimento de pessoas",
+        "Comunicação estratégica e tradução de requisitos de negócio para tecnologia",
+        "Gestão de riscos, resolução de conflitos técnicos e tomada de decisão sob pressão",
+        "Visão holística de produto, priorização baseada em valor e impacto financeiro",
+        "Cultura de inovação contínua e forte senso de propriedade (ownership)"
+      ],
+      "roadmap": [
+        "Arquitetura de Microserviços e Sistemas Distribuídos",
+        "Padrões de Projeto Avançados (Design Patterns) e Clean Architecture",
+        "Estratégias Avançadas de Caching e Mensageria (RabbitMQ, Kafka)",
+        "Observabilidade, Telemetria e Monitoramento (Grafana, Prometheus, ELK)",
+        "FinOps e Otimização de Custos em Nuvem (AWS/Azure)",
+        "Governança de Dados, LGPD e Segurança Avançada (AppSec)",
+        "Metodologias Ágeis Escaladas (SAFe, LeSS) e Gestão de Débito Técnico"
+      ]
+    },
+    {
+      "title": "Arquiteto de Soluções Cloud & IA",
+      "description": "Atuar no nível estratégico e visionário da engenharia, projetando ecossistemas em nuvem altamente escaláveis, resilientes e integrando capacidades avançadas de Inteligência Artificial aos produtos digitais. O foco deste profissional é resolver problemas complexos de negócio através de arquiteturas inovadoras, liderando a transformação digital. Responsável por avaliar novas tecnologias (como integração de LLMs e machine learning em sistemas corporativos), garantir a governança, a segurança dos dados e a otimização de custos na nuvem, alinhando a engenharia de ponta com a visão de longo prazo da empresa.",
+      "softSkills": [
+        "Visão executiva e pensamento estratégico de longo prazo",
+        "Liderança em inovação e gestão de transformação digital",
+        "Fluência na tradução de capacidades complexas de IA para valor de negócio real",
+        "Pensamento crítico sobre ética, segurança, privacidade e viés em IA",
+        "Negociação, influência e comunicação direta com stakeholders de alto nível"
+      ],
+      "roadmap": [
+        "Arquitetura Cloud Avançada (Multi-Cloud, Arquiteturas Serverless, Kubernetes)",
+        "Integração de IA Generativa e LLMs (Arquiteturas RAG, LangChain, Fine-tuning)",
+        "MLOps, AIOps e Pipelines de Dados (Integração com Data Lakes e Big Data)",
+        "Segurança de Nuvem, Zero Trust e Governança de IA",
+        "Engenharia de Prompt Corporativa",
+        "FinOps (Gestão e otimização financeira de custos em arquiteturas de nuvem e consumo de APIs de IA)",
+        "Estratégia de APIs de alta performance e modernização de sistemas legados"
+      ]
+    }
+  ],
+  "skillGroups": [
+    {
+      "title": "Frontend",
+      "skills": [
+        {
+          "name": "HTML/CSS",
+          "level": 85
+        },
+        {
+          "name": "JavaScript",
+          "level": 80
+        },
+        {
+          "name": "React",
+          "level": 70
+        },
+        {
+          "name": "Integração Front-Back",
+          "level": 82
+        }
+      ]
+    },
+    {
+      "title": "Backend & APIs",
+      "skills": [
+        {
+          "name": "Java (Java 21)",
+          "level": 90
+        },
+        {
+          "name": "Spring Boot 3",
+          "level": 88
+        },
+        {
+          "name": "APIs REST",
+          "level": 85
+        },
+        {
+          "name": "MySQL",
+          "level": 75
+        }
+      ]
+    },
+    {
+      "title": "Design, Ferramentas & Processos",
+      "skills": [
+        {
+          "name": "Figma (UI/UX & Componentes)",
+          "level": 88
+        },
+        {
+          "name": "Git/GitHub",
+          "level": 85
+        },
+        {
+          "name": "Maven",
+          "level": 80
+        },
+        {
+          "name": "Scrum & Kanban",
+          "level": 85
+        }
+      ]
+    }
+  ],
+  "otherSkills": [
+    "Design Systems",
+    "Orientação a Objetos (POO)",
+    "Modelagem de Software",
+    "Visão de Produto",
+    "Pitch e Apresentação de Projetos",
+    "Metodologias Ágeis",
+    "DevOps e CI/CD",
+    "Trabalho em Equipe"
+  ],
+  "languages": [
+    {
+      "name": "Português",
+      "level": "Nativo"
+    },
+    {
+      "name": "Inglês",
+      "level": "Intermediário (A2-B1)"
+    }
+  ]
+}
